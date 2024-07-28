@@ -1,1 +1,1 @@
-# c-lculo-de-viga---ex1
+# calculo de vigas_EX1
