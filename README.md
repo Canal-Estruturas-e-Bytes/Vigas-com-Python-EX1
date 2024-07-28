@@ -1,1 +1,1 @@
-# Cálculo de Vigas via Python
+# Cálculo de Vigas com Python
