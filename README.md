@@ -1,1 +1,1 @@
-# calculo de vigas_EX1
+# Cálculo de Vigas via Python
